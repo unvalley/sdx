@@ -1,5 +1,5 @@
 [package]
-name = "elasticsearch-tui"
+name = "index_lens"
 version = "0.1.0"
 edition = "2024"
 
